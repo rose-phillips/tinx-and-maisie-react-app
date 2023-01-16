@@ -1,0 +1,21 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: pink; /* For browsers that do not support gradients */
+    background: radial-gradient(at 50% 200%, #ffffff, #ffffc6, #fed9c1,#ffa59c, #fb8b98, #d3659c, #9b4898);
+    color: 132227;
+}
+
+body, html {
+    min-height: 100%;
+  }

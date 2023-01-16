@@ -2,9 +2,9 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>
-      
-    </div>
+<header>
+  <h1 className='logo'>Tinx & Maisie</h1>
+</header>
   )
 }
 
